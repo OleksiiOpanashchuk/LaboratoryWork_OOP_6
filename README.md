@@ -29,22 +29,31 @@ To run this project, you must have the following installed on your computer: Int
 
 # Build Instructions
 Clone the repository to your local machine using <br>
-git clone https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_5
+git clone https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6
 
 # Results
 
-Task1 (Square): <br>
+Task1 (Person): <br>
 
-![LaboratoryWork_OOP_5 – Square java 07 05 2023 11_41_24](https://user-images.githubusercontent.com/132139593/236667472-5f488d9a-3be6-4819-93c5-fdba766506ae.png)
+![1 завдання](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/6c85c424-4a55-41ee-adf9-53ef73101969)
 
-Task2 (MinimumNumber): <br>
+Task2 (Phone): <br>
 
-![LaboratoryWork_OOP_5 – Square java 07 05 2023 11_41_43](https://user-images.githubusercontent.com/132139593/236667485-dda37f1e-ca46-4eaf-947e-8f8201a17ac1.png)
+![2](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/dcb32848-839c-4de4-9764-27aa51546dce)
 
-Task3 (ArrayPrinter): <br>
+Task3 (Hierarchy): <br>
 
-![LaboratoryWork_OOP_5 – Square java 07 05 2023 11_42_11](https://user-images.githubusercontent.com/132139593/236667511-e5471d2d-a63e-43a5-bfd8-f91f39590242.png)
+![3](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/3a396b28-72f3-47d1-8dc1-c7e1d66b34a6)
 
-Task4 (Array): <br>
+Task4 (Task4): <br>
 
-![LaboratoryWork_OOP_5 – Square java 07 05 2023 11_42_39](https://user-images.githubusercontent.com/132139593/236667546-6c7eb84e-dbc8-433c-abea-ac604efcc509.png)
+![4](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/4c136bbd-98c4-4542-b393-b546c73f68ab)
+
+Task5 (BankAccount): <br>
+
+![5](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/e4b93c50-9ac5-4644-bc16-7fea459ab550)
+
+Task6 (ExtendedBankAccount): <br>
+
+![6](https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_6/assets/132139593/1eab1fb7-b721-441d-809e-ddc271ca3327)
+
